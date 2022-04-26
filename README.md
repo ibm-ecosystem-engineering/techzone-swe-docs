@@ -1,5 +1,7 @@
 # TechZone Documentation
 
-- [Preparing to demo FS Cloud](./PDFs/Preparing%20to%20demo%20FS%20Cloud.pdf)
 
-[FAQ and Troubleshooting](./PDFs/FAQ%20&%20Troubleshooting.pdf)
+### Turbonomic
+- [TechZone Deployment Guide for AWS, Azure and IBM Cloud(./PDFs/turbonomic/1%20-%20TechZone%20Deployment%20Guide%20for%20Turbonomic.pdf)
+
+[FAQ and Troubleshooting](./PDFs)
